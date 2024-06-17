@@ -1,0 +1,4 @@
+Hola %user% te recordamos que tienes un pago pendiente de %pay% 😢
+Te invitamos a realizar el pago antes de %date% antes 😊
+
+- Equipo CHOYS
